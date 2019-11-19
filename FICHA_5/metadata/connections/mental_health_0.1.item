@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
-  <TalendMetadata:DatabaseConnection xmi:id="_uR4v0AYTEeqnm7oWm6ajrA" name="mental_health" id="_ln0isAYTEeqnm7oWm6ajrA" label="mental_health" dataPackage="_uSzV0AYTEeqnm7oWm6ajrA" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/job1?noDatetimeStringSync=true&amp;serverTimezone=UTC" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="rdyWKsbC0XWRC2KbXOXViw==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="job1" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;serverTimezone=UTC" StandardSQL="true" SQLMode="false" UiSchema="">
-    <taggedValue xmi:id="_uR5W4AYTEeqnm7oWm6ajrA" tag="Is Conn Need Reload" value="false"/>
+  <TalendMetadata:DatabaseConnection xmi:id="_uR4v0AYTEeqnm7oWm6ajrA" name="mental_health" id="_ln0isAYTEeqnm7oWm6ajrA" label="mental_health" dataPackage="_yrDdYArSEeqbzr6S8X_c2Q" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/job4?noDatetimeStringSync=true&amp;serverTimezone=UTC" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="cKMRIsS+seS81AuWxKWyoA==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="job4" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;serverTimezone=UTC" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_uR5W4AYTEeqnm7oWm6ajrA" tag="Is Conn Need Reload" value="true"/>
     <taggedValue xmi:id="_uSXQ8AYTEeqnm7oWm6ajrA" tag="package filter" value=""/>
     <taggedValue xmi:id="_uSbiYAYTEeqnm7oWm6ajrA" tag="Status" value=""/>
     <taggedValue xmi:id="_uSbiYQYTEeqnm7oWm6ajrA" tag="Version" value="0.1"/>
@@ -13,6 +13,7 @@
     <taggedValue xmi:id="_uSo9wQYTEeqnm7oWm6ajrA" tag="DB ProductVersion" value="8.0.17"/>
     <taggedValue xmi:id="_uSo9wgYTEeqnm7oWm6ajrA" tag="DB IdentifierQuoteString" value="`"/>
     <parameters xmi:id="_uR5W4QYTEeqnm7oWm6ajrA" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_VtnnYAlWEeqbzr6S8X_c2Q" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
   </TalendMetadata:DatabaseConnection>
-  <orgomg.cwm.resource.relational:Catalog xmi:id="_uSzV0AYTEeqnm7oWm6ajrA" name="job1" dataManager="_uR4v0AYTEeqnm7oWm6ajrA"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_yrDdYArSEeqbzr6S8X_c2Q" name="job4" dataManager="_uR4v0AYTEeqnm7oWm6ajrA"/>
 </xmi:XMI>
